@@ -1,0 +1,3 @@
+requests
+tmdbv3api
+urllib3
